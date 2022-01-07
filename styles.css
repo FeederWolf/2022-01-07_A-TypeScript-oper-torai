@@ -44,6 +44,16 @@ table {
   width: 80%;
   margin: auto;
 }
+th{
+  background-color: #087ac8;
+  color: white;
+}
+tr, td, th{
+  border: gray solid 1px;
+  padding-right: 5px;
+  padding-left: 5px;
+  text-align: center;
+}
 
 span{
   color: #087ac8;
@@ -52,4 +62,5 @@ span{
 .szamok{
   text-align: justify;
   line-height: 120%;
+  font-family: 'Courier New', Courier, monospace;
 }
